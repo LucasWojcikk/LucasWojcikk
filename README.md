@@ -1,5 +1,5 @@
 ## Hello 👋
-<p align="left"><strong>I have been working as a developer since 2023, and I am currently a Full Stack developer at Projevias.</strong></p>
+<p align="left"><strong>I have been working as a developer since 2023, and I am currently a Software Developer at Projevias.</strong></p>
 
 <p align="left"><strong>Languages:</strong></p>
 
